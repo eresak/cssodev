@@ -1,0 +1,38 @@
+.was{
+    background-color: grey;
+}
+#cvx{
+    size: 50px;
+    background-color: grey;
+}
+.vbn{
+    margin-left: 250pxs;
+}
+.der{
+    margin: auto;
+    width: 750px;
+}
+.leftbar{
+    background-color: #7EE5DA;
+    float: left;
+    width: 200px;
+    height: 100px;
+}
+.terbar{
+    background-color: #70CCC2;
+    float: left;
+    width: 200px;
+    height: 100px;
+}
+.monbar{
+    float: left;
+    width: 350px;
+    height: 100px;
+    background-color: #62B3AA;
+}
+.cubar{
+    float: left;
+    width: 1100px;
+    font-size: -1;
+
+}
